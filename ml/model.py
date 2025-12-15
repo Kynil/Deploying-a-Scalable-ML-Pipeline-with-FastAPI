@@ -23,7 +23,8 @@ def train_model(X_train, y_train):
         Trained machine learning model.
     """
     model = RandomForestClassifier(
-        n_estimators=200,
+        n_estimators=50,
+        max_depth=10,
         random_state=42,
         n_jobs=1
     )

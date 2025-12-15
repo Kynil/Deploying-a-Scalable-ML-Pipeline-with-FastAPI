@@ -22,7 +22,7 @@ The evaluation data consists of the held-out test split that was not used during
 
 The model is evaluated using precision, recall, and F1 score (F-beta score with beta =1).
 Overall performance:
-Precision: 0.7338 | Recall: 0.6365 | F1: 0.6817
+Precision: 0.8092 | Recall: 0.5491 | F1: 0.6543
 
 ## Ethical Considerations
 
